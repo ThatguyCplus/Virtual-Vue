@@ -1,6 +1,9 @@
 # Virtual-Vue
 3 Axis Servo Gimbal For DJI's FPV system
 
+Download Cad files and open them in Solid Works, Click the Assembly called Centered Pulley System 
+Be careful how you 3D print the files, as the layer lines affect the structural integrity of the prints.
+
 Uses the BNO055 IMU Board 
 Rasberry Pi Pico
 3 B9DLM 333HZ Digital Servo's
