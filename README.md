@@ -18,3 +18,7 @@ The Yellow line wraps around the main pulley twice, Using 20-24awg insulated wir
 The Pitch line uses a 40lb braid fishing line
 
 With this gimbal, the Pitch and Yaw axis are coupled therefore, you need to decouple them in your radio controller
+
+https://youtu.be/A6cWp2fZfMU?si=8Dj7YfDJx9ZGU9xw
+
+https://youtu.be/IGMtpTrXQQc?si=_HiDwHz5pgQHThqa
