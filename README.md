@@ -22,3 +22,12 @@ With this gimbal, the Pitch and Yaw axis are coupled therefore, you need to deco
 https://youtu.be/A6cWp2fZfMU?si=8Dj7YfDJx9ZGU9xw
 
 https://youtu.be/IGMtpTrXQQc?si=_HiDwHz5pgQHThqa
+
+---
+
+## Other projects in this repo
+
+### [Goggles → Steam Frame](GogglesToSteamFrame/) (separate, experimental)
+**Not part of the gimbal above.** An exploration of using DJI FPV Goggles V2 as a video
+receiver and showing the live feed inside a Valve Steam Frame with passthrough.
+See [`GogglesToSteamFrame/README.md`](GogglesToSteamFrame/README.md).

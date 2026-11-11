@@ -1,0 +1,2 @@
+# Give non-root users access to DJI goggles (USB vendor 0x2ca3) for live video capture.
+SUBSYSTEM=="usb", ATTR{idVendor}=="2ca3", MODE="0666"
